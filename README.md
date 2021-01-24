@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <!--![Gaven Grantz's github stats](https://github-readme-stats.vercel.app/api?username=indomie858&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide=issues,contribs)
 -->
 
-![Gaven Grantz's github stats](https://github-readme-stats.vercel.app/api?username=indomie858&count_private=true&theme=synthwave&include_all_commits=true)
+![Gaven Grantz's github stats](https://github-readme-stats.vercel.app/api?username=indomie858&count_private=true&theme=tokyonight&include_all_commits=true)
