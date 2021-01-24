@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <!--![Gaven Grantz's github stats](https://github-readme-stats.vercel.app/api?username=indomie858&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide=issues,contribs)
 -->
 
-![Gaven Grantz's github stats](https://github-readme-stats.vercel.app/api?username=indomie858&count_private=true&theme=radical&include_all_commits=true)
+![Gaven Grantz's github stats](https://github-readme-stats.vercel.app/api?username=indomie858&count_private=true&theme=radical&include_all_commits=true&hide=issues,contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indomie858&theme=radical&hide=batchfile&count_private=true&layout=compact&langs_count=8)
